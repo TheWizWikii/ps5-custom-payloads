@@ -12,12 +12,12 @@
     },
     {
       "name": "Game Compressor",
-      "filename": "game-compressor-v1.0.0.elf",
-      "url": "https://thewizwikii.github.io/ps5-custom-payloads/game-compressor-v1.0.0.elf",
+      "filename": "game-compressor-v1.0.1.elf",
+      "url": "https://thewizwikii.github.io/ps5-custom-payloads/game-compressor-v1.0.1.elf",
       "source": "https://github.com/juma-sayeh/PS5-Game-Compressor/releases",
       "description": "Compressor y conversor de Juegos para reducir el tamaño.",
-      "last_update": "18.06.2026",
-      "version": "v1.0.0"
+      "last_update": "19.06.2026",
+      "version": "v1.0.1"
     },
     {
       "name": "VoidShell",
