@@ -3,12 +3,12 @@
   "payloads": [
     {
       "name": "BD-J_Unpatch",
-      "filename": "bdj_unpatch_v13.40.elf",
-      "url": "https://thewizwikii.github.io/ps5-custom-payloads/bdj_unpatch_v13.40.elf",
-      "source": "https://github.com/Gezine/BD-UN-JB/releases",
-      "description": "Desbloquea el lector de discos (BD-J) en PS5 liberadas hasta firmware 13.40.",
-      "last_update": "12.06.2026",
-      "version": "v13.40"
+      "filename": "bdj_unpatch_1360.elf",
+      "url": "https://github.com/Gezine/BD-JB5/releases/download/2.0/bdj_unpatch_1360.elf",
+      "source": "https://github.com/Gezine/BD-JB5",
+      "description": "Desbloquea el lector de discos (BD-J) en PS5 liberadas hasta firmware 13.60.",
+      "last_update": "12.08.2026",
+      "version": "v13.60"
     },
     {
       "name": "Game Compressor",
@@ -18,6 +18,15 @@
       "description": "Compressor y conversor de Juegos para reducir el tamaño.",
       "last_update": "19.06.2026",
       "version": "v1.0.1"
+    },
+    {
+      "name": "SVT Play",
+      "filename": "svtplay-install.elf",
+      "url": "https://github.com/ps5-payload-dev/svtplay/releases/download/v0.2/svtplay-install.elf",
+      "source": "https://github.com/ps5-payload-dev/svtplay/releases",
+      "description": "Compressor y conversor de Juegos para reducir el tamaño.",
+      "last_update": "12.08.2026",
+      "version": "v0.2"
     },
     {
       "name": "VoidShell",
