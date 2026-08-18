@@ -48,21 +48,21 @@
     },
     {
       "name": "Webserv",
-      "filename": "websrv-ps5-v0.32.elf",
-      "url": "https://thewizwikii.github.io/ps5-custom-payloads/websrv-ps5-v0.32.elf",
+      "filename": "websrv-ps5.elf",
+      "url": "https://github.com/ps5-payload-dev/websrv/releases/download/v0.34/websrv-ps5.elf",
       "source": "https://github.com/ps5-payload-dev/websrv/releases",
       "description": "Servidor web simple que acepta conexiones en el puerto 8080.",
-      "last_update": "12.06.2026",
-      "version": "v13.40"
+      "last_update": "18.08.2026",
+      "version": "v0.34"
     },
     {
       "name": "PS5 Debug NG",
-      "filename": "ps5debug-NG_v1.2.7.elf",
-      "url": "https://thewizwikii.github.io/ps5-custom-payloads/ps5debug-NG_v1.2.7.elf",
+      "filename": "ps5debug-NG_v1.3.0.elf",
+      "url": "https://github.com/OpenSourcereR-dev/ps5debug-NG/releases/download/1.3.0/ps5debug-NG_v1.3.0.elf",
       "source": "https://github.com/OpenSourcereR-dev/ps5debug-NG/releases",
       "description": "Depurador para PS5 que permite inspeccionar y modificar procesos en ejecución.",
-      "last_update": "12.06.2026",
-      "version": "v1.2.7"
+      "last_update": "18.08.2026",
+      "version": "v1.3.0"
     },
     {
       "name": "ShadowMount Plus",
