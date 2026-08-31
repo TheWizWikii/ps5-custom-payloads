@@ -12,12 +12,12 @@
     },
     {
       "name": "Game Compressor",
-      "filename": "game-compressor-v1.0.1.elf",
-      "url": "https://thewizwikii.github.io/ps5-custom-payloads/game-compressor-v1.0.1.elf",
-      "source": "https://github.com/juma-sayeh/PS5-Game-Compressor/releases",
+      "filename": "game-compressor.elf",
+      "url": "https://github.com/juma-sayeh/PS5-Game-Compressor/releases/download/v1.0.4/game-compressor.elf",
+      "source": "https://github.com/juma-sayeh/PS5-Game-Compressor/",
       "description": "Compressor y conversor de Juegos para reducir el tamaño.",
-      "last_update": "19.06.2026",
-      "version": "v1.0.1"
+      "last_update": "22.08.2026",
+      "version": "v1.0.4"
     },
     {
       "name": "onionHEN",
