@@ -20,6 +20,15 @@
       "version": "v1.0.1"
     },
     {
+      "name": "onionHEN",
+      "filename": "OnionHEN.elf",
+      "url": "https://github.com/aydencharles/onionHEN/releases/download/v0.0.12/OnionHEN.elf",
+      "source": "https://github.com/aydencharles/onionHEN",
+      "description": "OnionHEN es un habilitador de homebrew y una caja de herramientas basado en etaHEN.",
+      "last_update": "31.08.2026",
+      "version": "v0.0.12"
+    },
+    {
       "name": "PS5 Webkit Autoloader",
       "filename": "webkit-autoloader-installer_v0.3.1-pre-3e9b02d.elf",
       "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.3.1-pre-3e9b02d/webkit-autoloader-installer_v0.3.1-pre-3e9b02d.elf",
