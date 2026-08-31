@@ -30,12 +30,12 @@
     },
     {
       "name": "PS5 Webkit Autoloader",
-      "filename": "webkit-autoloader-installer_v0.3.1-pre-3e9b02d.elf",
-      "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.3.1-pre-3e9b02d/webkit-autoloader-installer_v0.3.1-pre-3e9b02d.elf",
+      "filename": "webkit-autoloader-installer_v0.4.0.elf",
+      "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.4.0/webkit-autoloader-installer_v0.4.0.elf",
       "source": "https://github.com/itsPLK/ps5-webkit-autoloader/releases",
       "description": "Carga automáticamente el exploit WebKit SlopKit",
-      "last_update": "18.08.2026",
-      "version": "v0.3.0"
+      "last_update": "24.08.2026",
+      "version": "v0.4.0"
     },
     {
       "name": "SVT Play",
