@@ -201,12 +201,12 @@
     },
     {
       "name": "Kstuff Lite",
-      "filename": "kstuff-lite_v1.08.elf",
-      "url": "https://thewizwikii.github.io/ps5-custom-payloads/kstuff-lite_v1.08.elf",
+      "filename": "kstuff.elf",
+      "url": "https://github.com/EchoStretch/kstuff-lite/releases/download/v1.10/kstuff.elf",
       "source": "https://github.com/EchoStretch/kstuff-lite/releases",
       "description": "Desbloqueador de juegos y apps, sin esto no juegas.",
-      "last_update": "01.07.2026",
-      "version": "v1.08"
+      "last_update": "26.08.2026",
+      "version": "v1.10"
     }
   ]
 }
