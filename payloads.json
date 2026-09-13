@@ -83,6 +83,33 @@
       "version": "v1.6"
     },
     {
+      "name": "ShadowMount FPKG",
+      "filename": "shadowmountplus.elf",
+      "url": "https://thewizwikii.github.io/ps5-custom-payloads/shadowmountplus.elf",
+      "source": "https://github.com/drakmor/ShadowMountPlus/releases",
+      "description": "Payload automatizado para montar e instalar copias de juegos de PS5 sin herramientas externas.",
+      "last_update": "13.09.2026",
+      "version": "v1.0"
+    },
+    {
+      "name": "A53 PPR INSTALL FAST",
+      "filename": "a53_ppr_install_fast.elf",
+      "url": "https://thewizwikii.github.io/ps5-custom-payloads/a53_ppr_install_fast.elf",
+      "source": "https://github.com/drakmor/ShadowMountPlus/releases",
+      "description": "Payload para usar fpkg.",
+      "last_update": "13.09.2026",
+      "version": "v1.0"
+    },
+    {
+      "name": "Kstuff FPKG suport",
+      "filename": "kstuff-lite-dr_1.2-dr-test1.elf",
+      "url": "https://thewizwikii.github.io/ps5-custom-payloads/kstuff-lite-dr_1.2-dr-test1.elf",
+      "source": "https://github.com/drakmor/ShadowMountPlus/releases",
+      "description": "Kstuff para usar fpkg.",
+      "last_update": "13.09.2026",
+      "version": "v1.0"
+    },
+    {
       "name": "Linux Loader",
       "filename": "ps5-linux-loader_v2.1.elf",
       "url": "https://thewizwikii.github.io/ps5-custom-payloads/ps5-linux-loader_v2.1.elf",
